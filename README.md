@@ -21,5 +21,12 @@ Chapter 3  code_Project_68 The second part 2 of "The Arduino World Book" code_Pr
     </a>
 </p>
 
+Installing Library
+Install the following Library on your Arduino.
+
+https://github.com/adafruit/Adafruit_SSD1306
+
+https://github.com/adafruit/Adafruit-GFX-Library
+
 ![bdbcd671-7c38-43f8-be4c-404a09fe434b f0178d85e8530d06c84af93096dc741d](https://user-images.githubusercontent.com/35774039/156800964-b20a6615-5037-45ed-82aa-41b1ad558525.jpeg)
 
