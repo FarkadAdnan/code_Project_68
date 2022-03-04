@@ -22,5 +22,4 @@ Chapter 3  code_Project_68 The second part 2 of "The Arduino World Book" code_Pr
 </p>
 
 ![bdbcd671-7c38-43f8-be4c-404a09fe434b f0178d85e8530d06c84af93096dc741d](https://user-images.githubusercontent.com/35774039/156800964-b20a6615-5037-45ed-82aa-41b1ad558525.jpeg)
-![download](https://user-images.githubusercontent.com/35774039/156800972-0fba2eff-07a8-404d-afdf-427de702868d.jpg)
 
